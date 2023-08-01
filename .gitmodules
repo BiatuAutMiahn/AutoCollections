@@ -1,0 +1,3 @@
+[submodule "Includes/Common"]
+	path = Includes/Common
+	url = https://github.com/BiatuAutMiahn/Au3Common
